@@ -1,0 +1,13 @@
+
+psutil 
+pyautogui 
+pyperclip 
+qrcode 
+pydub 
+langdetect 
+requests 
+beautifulsoup4 
+pillow 
+edge-tts 
+streamlit-mic-recorder
+faster-whisper
